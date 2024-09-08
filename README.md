@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Auspicious-EX/DailyWebDev/blob/main/Day%20112/get-me-a-chai/IMG/banner.gif?raw=true)](https://github.com/Auspicious-EX/DailyWebDev)
+[![MasterHead](https://github.com/Auspicious-EX/WebWorksStudio/blob/main/imgs/banner.gif?raw=true)](https://github.com/Auspicious-EX/WebWorksStudio)
 
 # WebWorksStudio
 
@@ -41,4 +41,4 @@ Follow our progress and updates:
 - **Portfolio**: [Your Portfolio Website](auspicious.me)
 - **Twitter**: [@your-twitter-handle](https://twitter.com/Auspicious_EX)
 
-[![Footer](https://github.com/Auspicious-EX/DailyWebDev/blob/main/Day%20112/get-me-a-chai/IMG/banner.gif?raw=true)](https://github.com/Auspicious-EX/DailyWebDev)
+[![Footer](https://github.com/Auspicious-EX/WebWorksStudio/blob/main/imgs/footer.gif?raw=true)](https://github.com/Auspicious-EX/WebWorksStudio)
