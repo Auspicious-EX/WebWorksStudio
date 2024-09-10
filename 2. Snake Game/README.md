@@ -42,8 +42,8 @@ Welcome to the **Snake Game**! This classic game is built using HTML, CSS, and J
 
 Follow our progress and updates:
 
-- **GitHub**: [WebWorksStudio](https://github.com/Auspicious-EX/)
-- **Portfolio**: [Your Portfolio Website](auspicious.me)
-- **Twitter**: [@your-twitter-handle](https://twitter.com/Auspicious_EX)
+- **GitHub**: [My GitHub](https://github.com/Auspicious-EX/)
+- **Portfolio**: [Portfolio Website](auspicious.me)
+- **Twitter**: [twitter-handle](https://twitter.com/Auspicious_EX)
 
 [![Footer](https://github.com/Auspicious-EX/WebWorksStudio/blob/main/imgs/footer.gif?raw=true)](https://github.com/Auspicious-EX/WebWorksStudio)
