@@ -1,6 +1,3 @@
-Here’s a README for your **Snake Game** project using HTML, CSS, and JavaScript:
-
----
 
 # Snake Game
 
