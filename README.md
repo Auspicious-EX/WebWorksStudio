@@ -14,9 +14,8 @@ Welcome to **WebWorksStudio**! This repository showcases a variety of web design
 
 | Sr. No. | Name of Project    | Tech Stack Used                |
 |---------|---------------------|--------------------------------|
-| 1       | Example Project 1   | React, Tailwind CSS, SCSS       |
-| 2       |    |                   |
-| 3       |    |          |
+| 1      | Cursor Styles with Zoom Effect   |   HTML, CSS                |
+| 2       |                    |                    |
 
 
 
